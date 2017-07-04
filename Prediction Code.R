@@ -1,3 +1,6 @@
+#The following code trains and predicts losn status for the Analytics Vidhya - Loan Prediction Hackathon 
+
+
 
 #Setting up the Environment
 
